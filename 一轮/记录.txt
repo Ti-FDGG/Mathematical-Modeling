@@ -1,0 +1,8 @@
+国家地表水水质自动监测实时数据发布系统
+https://szzdjc.cnemc.cn:8070/GJZ/Business/Publish/Main.html
+注意实时数据搜索北京市。另外，在右上角发布说明中提到了一些标准，如五类水质分类依据
+
+北京地区水系（需要关注吗？）
+https://k.sina.com.cn/article_7657443013_1c86b4ec500100wnma.html
+
+Jupyter Notebook 中报错 TypeError: ‘str‘ object is not callable如何解决？
